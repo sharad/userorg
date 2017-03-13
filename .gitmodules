@@ -22,3 +22,6 @@
 [submodule "system/system"]
 	path = system/system
 	url = git@github.com:sharad/system.git
+[submodule "user/doc"]
+	path = user/doc
+	url = git@bitbucket.org:sh4r4d/doc.git
