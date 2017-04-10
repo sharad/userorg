@@ -25,3 +25,6 @@
 [submodule "user/doc"]
 	path = user/doc
 	url = git@bitbucket.org:sh4r4d/doc.git
+[submodule "user/spacemacs"]
+	path = user/spacemacs
+	url = https://github.com/syl20bnr/spacemacs
