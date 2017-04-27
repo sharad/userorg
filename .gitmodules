@@ -10,9 +10,6 @@
 [submodule "user/secure.d"]
 	path = user/secure.d
 	url = git@bitbucket.org:sh4r4d/secure.d.git
-[submodule "user/rc"]
-	path = user/rc
-	url = git@github.com:sharad/rc.git
 [submodule "system/stumpwm-contrib"]
 	path = system/stumpwm-contrib
 	url = https://github.com/stumpwm/stumpwm-contrib.git
@@ -28,3 +25,6 @@
 [submodule "user/spacemacs"]
 	path = user/spacemacs
 	url = https://github.com/syl20bnr/spacemacs
+[submodule "user/rc"]
+	path = user/rc
+	url = git@github.com:sharad/rc.git
