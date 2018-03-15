@@ -28,3 +28,12 @@
 [submodule "readwrite/public/user/localdirs"]
 	path = readwrite/public/user/localdirs
 	url = git@bitbucket.org:sh4r4d/localdirs.git
+[submodule "readwrite/public/user/doc/CreatedContent/contents"]
+	path = readwrite/public/user/doc/CreatedContent/contents
+	url = git@bitbucket.org:sh4r4d/contents.git
+[submodule "readwrite/public/user/doc/Public"]
+	path = readwrite/public/user/doc/Public
+	url = git@bitbucket.org:sh4r4d/docpublic.git
+[submodule "readwrite/public/user/doc/Library"]
+	path = readwrite/public/user/doc/Library
+	url = git@bitbucket.org:sh4r4d/doclibrary.git
