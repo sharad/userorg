@@ -25,3 +25,6 @@
 [submodule "user/rc"]
 	path = readwrite/public/user/rc
 	url = git@github.com:sharad/rc.git
+[submodule "readwrite/public/user/localdirs"]
+	path = readwrite/public/user/localdirs
+	url = git@bitbucket.org:sh4r4d/localdirs.git
