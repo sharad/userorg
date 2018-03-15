@@ -19,9 +19,6 @@
 [submodule "system/system"]
 	path = readwrite/public/system/system
 	url = git@github.com:sharad/system.git
-[submodule "user/doc"]
-	path = readwrite/public/user/doc
-	url = git@bitbucket.org:sh4r4d/doc.git
 [submodule "user/spacemacs"]
 	path = readonly/public/user/spacemacs
 	url = https://github.com/syl20bnr/spacemacs
