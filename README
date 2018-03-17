@@ -1,4 +1,4 @@
-after cloning userorg.git into ~/.repos 
+After cloning userorg.git into ~/.repos 
 
 ensure localdirs/rc.d/ symlink are working.
  
