@@ -1,39 +1,39 @@
 [submodule "user/opt"]
-	path = readwrite/public/user/opt
+	path = main/readwrite/public/user/opt
 	url = git@bitbucket.org:sh4r4d/opt.git
 [submodule "user/orgp"]
-	path = readwrite/private/user/orgp
+	path = main/readwrite/private/user/orgp
 	url = git@bitbucket.org:sh4r4d/orgp.git
 [submodule "user/osetup"]
-	path = readwrite/public/user/osetup
+	path = main/readwrite/public/user/osetup
 	url = git@bitbucket.org:sh4r4d/osetup.git
 [submodule "user/secure.d"]
-	path = readwrite/private/user/secure.d
+	path = main/readwrite/private/user/secure.d
 	url = git@bitbucket.org:sh4r4d/secure.d.git
 [submodule "system/stumpwm-contrib"]
-	path = system/stumpwm-contrib
+	path = main/system/stumpwm-contrib
 	url = https://github.com/stumpwm/stumpwm-contrib.git
 [submodule "system/sysinfo"]
-	path = readwrite/public/system/sysinfo
+	path = main/readwrite/public/system/sysinfo
 	url = git@bitbucket.org:sh4r4d/sysinfo.git
 [submodule "system/system"]
-	path = readwrite/public/system/system
+	path = main/readwrite/public/system/system
 	url = git@github.com:sharad/system.git
 [submodule "user/spacemacs"]
-	path = readonly/public/user/spacemacs
+	path = main/readonly/public/user/spacemacs
 	url = https://github.com/syl20bnr/spacemacs
 [submodule "user/rc"]
-	path = readwrite/public/user/rc
+	path = main/readwrite/public/user/rc
 	url = git@github.com:sharad/rc.git
 [submodule "readwrite/public/user/localdirs"]
-	path = readwrite/public/user/localdirs
+	path = main/readwrite/public/user/localdirs
 	url = git@bitbucket.org:sh4r4d/localdirs.git
 [submodule "readwrite/public/user/doc/Public"]
-	path = readwrite/public/user/doc/Public
+	path = main/readwrite/public/user/doc/Public
 	url = git@bitbucket.org:sh4r4d/docpublic.git
 [submodule "readwrite/public/user/doc/Library"]
-	path = readwrite/public/user/doc/Library
+	path = main/readwrite/public/user/doc/Library
 	url = git@bitbucket.org:sh4r4d/doclibrary.git
 [submodule "readwrite/public/user/doc/CreatedContent/contents"]
-	path = readwrite/public/user/doc/CreatedContent/contents
+	path = main/readwrite/public/user/doc/CreatedContent/contents
 	url = git@bitbucket.org:sh4r4d/doccontents.git
