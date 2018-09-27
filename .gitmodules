@@ -8,7 +8,7 @@
 	path = main/readwrite/public/user/osetup
 	url = git@bitbucket.org:sh4r4d/osetup.git
 [submodule "user/secure.d"]
-	path = main/readwrite/private/user/secure.d
+	path = main/readwrite/private/user/noenc/Private/secure.d
 	url = git@bitbucket.org:sh4r4d/secure.d.git
 [submodule "system/stumpwm-contrib"]
 	path = main/system/stumpwm-contrib
