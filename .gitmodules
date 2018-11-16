@@ -37,3 +37,6 @@
 [submodule "readwrite/public/user/doc/CreatedContent/contents"]
 	path = main/readwrite/public/user/doc/CreatedContent/contents
 	url = git@bitbucket.org:sh4r4d/doccontents.git
+[submodule "main/readwrite/private/user/noenc/Private"]
+	path = main/readwrite/private/user/noenc/Private
+	url = git@bitbucket.org:sh4r4d/secure.d.git
