@@ -3,13 +3,13 @@
 	url = git@bitbucket.org:sh4r4d/opt.git
 [submodule "user/orgp"]
 	path = main/readwrite/private/user/orgp
-	url = git@bitbucket.org:sh4r4d/orgp.git
+	url = gcrypt::git@bitbucket.org:sh4r4d/orgp.git
 [submodule "user/osetup"]
 	path = main/readwrite/public/user/osetup
 	url = git@bitbucket.org:sh4r4d/osetup.git
 [submodule "user/secure.d"]
 	path = main/readwrite/private/user/noenc/Private/secure.d
-	url = git@bitbucket.org:sh4r4d/secure.d.git
+	url = gcrypt::git@bitbucket.org:sh4r4d/secure.d.git
 [submodule "system/stumpwm-contrib"]
 	path = main/system/stumpwm-contrib
 	url = https://github.com/stumpwm/stumpwm-contrib.git
