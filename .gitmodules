@@ -46,3 +46,6 @@
 [submodule "external/readonly/public/user/res/clisp/stumpwm-contrib"]
 	path = external/readonly/public/user/res/clisp/stumpwm-contrib
 	url = https://github.com/stumpwm/stumpwm-contrib.git
+[submodule "main/readwrite/public/user/res/emacs/pkg/elpa/melpa"]
+	path = main/readwrite/public/user/res/emacs/pkg/elpa/melpa
+	url = github.com:sharad/melpa.git
