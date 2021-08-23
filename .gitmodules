@@ -48,4 +48,4 @@
 	url = https://github.com/stumpwm/stumpwm-contrib.git
 [submodule "main/readwrite/public/user/res/emacs/pkg/elpa/melpa"]
 	path = main/readwrite/public/user/res/emacs/pkg/elpa/melpa
-	url = github.com:sharad/melpa.git
+	url = git@github.com:sharad/melpa.git
