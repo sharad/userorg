@@ -4,9 +4,6 @@
 [submodule "osetup@main/readwrite/public/user/osetup"]
 	path = main/readwrite/public/user/osetup
 	url = git@bitbucket.org:sh4r4d/osetup.git
-[submodule "stumpwm-contrib@main/system/stumpwm-contrib"]
-	path = main/system/stumpwm-contrib
-	url = https://github.com/stumpwm/stumpwm-contrib.git
 [submodule "sysinfo@main/readwrite/public/system/sysinfo"]
 	path = main/readwrite/public/system/sysinfo
 	url = git@bitbucket.org:sh4r4d/sysinfo.git
