@@ -44,5 +44,5 @@
 	path = main/readwrite/public/user/res/emacs/pkg/elpa/lotus-melpa
 	url = git@github.com:sharad/lotus-melpa.git
 [submodule "main/readwrite/private/user/noenc/protable"]
-	path = main/readwrite/private/user/noenc/protable
+	path = main/readwrite/private/user/noenc/portable
 	url = gcrypt::git@github.com:sharad/portablehome-enc.git
