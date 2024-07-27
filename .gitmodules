@@ -19,9 +19,6 @@
 [submodule "localdirs@main/readwrite/public/user/localdirs"]
 	path = main/readwrite/public/user/localdirs
 	url = git@bitbucket.org:sh4r4d/localdirs.git
-[submodule "Public@main/readwrite/public/user/doc/Public"]
-	path = main/readwrite/public/user/doc/Public
-	url = git@bitbucket.org:sh4r4d/docpublic.git
 [submodule "contents@main/readwrite/public/user/doc/CreatedContent/contents"]
 	path = main/readwrite/public/user/doc/CreatedContent/contents
 	url = git@bitbucket.org:sh4r4d/doccontents.git
