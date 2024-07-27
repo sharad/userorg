@@ -22,9 +22,6 @@
 [submodule "Public@main/readwrite/public/user/doc/Public"]
 	path = main/readwrite/public/user/doc/Public
 	url = git@bitbucket.org:sh4r4d/docpublic.git
-[submodule "Library@main/readwrite/public/user/doc/Library"]
-	path = main/readwrite/public/user/doc/Library
-	url = git@bitbucket.org:sh4r4d/doclibrary.git
 [submodule "contents@main/readwrite/public/user/doc/CreatedContent/contents"]
 	path = main/readwrite/public/user/doc/CreatedContent/contents
 	url = git@bitbucket.org:sh4r4d/doccontents.git
